@@ -1,0 +1,18 @@
+html {
+	min-height: 100%;
+}
+
+body {
+	height: 100vh;
+	background-image: url('https://static.pexels.com/photos/2769/hands-way-guide-tourist.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+.container {
+	margin-top: 15%;
+}
+
+.jumbotron {
+	background-color: rgba(175, 175, 213, .8);
+}

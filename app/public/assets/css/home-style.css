@@ -1,0 +1,30 @@
+
+			
+		body {
+			background-image: url('https://static.pexels.com/photos/31486/pexels-photo.jpg');
+			background-size: cover;
+			background-position: center;
+		}
+
+		.jumbotron {
+			margin-top: 5%;
+			background-color: rgba(175, 175, 213, .9);
+		}
+
+		h2 {
+			color: #333;
+			font-style: bold;
+		}
+
+		footer {
+			font-size: 150%;
+			font-style: bold;
+		}
+
+		a {
+			color: #333;
+		}
+
+		a: hover {
+			text-decoration: none;
+		}
